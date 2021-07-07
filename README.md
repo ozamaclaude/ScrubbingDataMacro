@@ -1,1 +1,2 @@
-# ScrubbingDataMacro
+## ScrubbingDataMacro
+- データクレンジング用VBAアプリケーション
